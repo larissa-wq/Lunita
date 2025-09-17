@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(182, 241, 182);
+}
+
+
+h1{
+    color: rgb(59, 166, 91);
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+    text-shadow:  rgb(131, 226, 150),20px, 20px, 20px, 20px;
+    text-align: center;
+    text-transform:inherit;
+    box-shadow: 0 0 20px black;
+    border: 3px solid rgb(17, 130, 17);
+
+
+    
+}
+
+img{
+    text-align: center;
+    margin:  0 auto;
+    display: block;
+    margin-bottom: 10px;
+
+}
+h2{
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+    text-align:center;
+    font-size: 30px;
+}
+
+#aparência{
+    text-indent: 30px;
+    line-height: 35px;
+    color: rgb(59, 166, 91);
+    border: 3px solid rgb(17, 130, 17);
+    box-shadow: 0 0 20px black;
+    margin-bottom: 10px;
+    font-size: 25px;
+
+
+}
+
+
+
+#habilidades{
+    text-indent: 50px;
+    line-height: 35px;
+    color: rgb(59, 166, 91);
+    border: 3px solid rgb(17, 130, 17);
+    box-shadow: 0 0 20px black;
+    margin-bottom: 15px;
+    font-size: 25px;
+}
+
+
+
+#habitat{
+    text-indent: 50px;
+    line-height: 35px;
+    color:  rgb(59, 166, 91);
+    border: 3px solid rgb(17, 130, 17);
+    box-shadow: 0 0 20px black;
+    margin-bottom: 15px;
+    font-size: 25px;
+
+
+}
